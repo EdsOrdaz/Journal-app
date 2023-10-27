@@ -8,7 +8,7 @@ import { startGoogleSingIn, startLoginWithEmailPassword } from '../../store/auth
 import { useMemo } from 'react'
 
 const formData = {
-  email: 'leslie@google.com',
+  email: 'test@google.com',
   password: '123456'
 };
 
